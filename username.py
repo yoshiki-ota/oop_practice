@@ -28,5 +28,3 @@ print(bob.name)
 print(bob.battle_name())
 print(tom.name)
 print(tom.battle_name())
-
-print("完成")
